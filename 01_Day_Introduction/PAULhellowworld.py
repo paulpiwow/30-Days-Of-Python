@@ -1,5 +1,4 @@
-#Read the README.md (5–10 min)
-#Create your own .py file (don’t edit theirs directly)
-#Rewrite + extend examples
-#Add one small “what if?” experiment
-#Run the file from VS Code
+#Read the README.md top to bottom
+#code along side it
+#do exercises at the bottom
+#Run your notes
